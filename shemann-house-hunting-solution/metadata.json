@@ -1,0 +1,6 @@
+{
+  "name": "ShemAnn House Hunting Solution",
+  "description": "Smart Rental House Searching Platform with pre-access preference questionnaire, coordinates GPS layout, direct bookings, multi-role workspaces, and conversational NyumbaBot guidance.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
